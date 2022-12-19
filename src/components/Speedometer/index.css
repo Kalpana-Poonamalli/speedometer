@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: white;
+  font-style: italic;
+}
+.img {
+  height: 320px;
+  width: 650px;
+}
+.heading2 {
+  color: #cbd5e1;
+  font-size: 20px;
+}
+.para {
+  color: #cbd5e1;
+}
+.button1 {
+  color: white;
+  background-color: #0b69ff;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.button2 {
+  color: #94a3b8;
+  background-color: transparent;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #94a3b8;
+}
